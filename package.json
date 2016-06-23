@@ -1,5 +1,5 @@
 {
-  "name": "autoform",
+  "name": "css-autoform",
   "version": "1.0.1",
   "description": "Automatic CSS form styles generator",
   "main": "index.js",
